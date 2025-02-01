@@ -1,0 +1,191 @@
+[{
+    "dao_id": 1,
+    "word": "hello",
+    "symbol": "H𒄀𒇠𒇠𒀭"
+  },
+{
+        "dao_id": 2,
+        "word": "world",
+        "symbol": "𒆤𒀭𒊠𒇠𒂠"
+  },
+{
+    "dao_id": 3,
+    "word": "example",
+    "symbol": "𒄀𒊤𒀀𒈀𒁭𒇠𒄀"
+  },
+{
+    "dao_id": 4,
+    "word": "yes",
+    "symbol": "𒌠𒄀𒊀"
+  },
+{
+    "dao_id": 5,
+    "word": "no",
+    "symbol": "𒋠𒀭"
+  },
+  {
+    "dao_id": 6,
+    "word": "when",
+    "symbol":"𒆤𒄠𒄀𒋠"
+  },
+  {
+    "dao_id": 7,
+    "word": "where",
+    "symbol": "𒆤𒄠𒄀𒊠𒄀"
+  },
+  {
+    "dao_id":8,
+    "word": "why",
+    "symbol": "𒆤𒄠𒌠"
+  },
+  {
+    "dao_id": 9,
+    "word": "how",
+    "symbol": "𒄠𒀭𒆤"
+  },
+  {
+    "dao_id": 10,
+    "word": "then",
+    "symbol": "𒋀𒄠𒄀𒋠"
+  },
+  {
+    "dao_id": 11,
+    "word": "example",
+    "symbol": "𒄀𒊤𒀀𒈀𒁭𒇠𒄀"
+  },
+  {
+    "dao_id": 12,
+    "word": "!",
+    "symbol": "𒍠"
+  },
+  {
+    "dao_id": 13,
+    "word": "?",
+    "symbol": "𒍥"
+  },
+  {
+    "dao_id": 14,
+    "word": ".",
+    "symbol": "𒍤"
+  },
+  {
+    "dao_id": 15,
+    "word": ",",
+    "symbol": "𒌋"
+  },
+  {
+    "dao_id": 16,
+    "word": "usage",
+    "symbol": "𒆭𒊀𒀀𒃀𒄀"
+  },
+  {
+    "dao_id": 17,
+    "word": "sentence",
+    "symbol": "𒊀𒄀𒋠𒋀𒄀𒋠𒀠𒄀"
+  },
+  {
+    "dao_id": 18,
+    "word": "subject",
+    "symbol": "𒊀𒆭𒁀𒈠𒄀𒀠𒋀"
+  },
+  {
+    "dao_id": 19,
+    "word": "verb",
+    "symbol": "𒆀𒄀𒊠𒁀"
+  },
+  {
+    "dao_id": 20,
+    "word": "agreement",
+    "symbol": "𒀀𒃀𒊠𒄀𒄀𒈀𒄀𒋠𒋀"
+  },
+  {
+    "dao_id": 21,
+    "word": "rule",
+    "symbol": "𒊠𒆭𒇠𒄀"
+  },
+  {
+    "dao_id": 22,
+    "word": "I",
+    "symbol": ""
+  },
+  {
+    "dao_id": 23,
+    "word": "you",
+    "symbol": "𒌠𒀭𒆭"
+  },
+  {
+    "dao_id": 24,
+    "word": "he",
+    "symbol": "𒄠𒄀"
+  },
+  {
+    "dao_id": 25,
+    "word": "she",
+    "symbol": "𒊀𒄠𒄀"
+  },
+  {
+    "dao_id": 26,
+    "word": "it",
+    "symbol": "𒁠𒋀"
+  },
+  {
+    "dao_id": 27,
+    "word": "we",
+    "symbol": "𒆤𒄀"
+  },
+  {
+    "dao_id": 28,
+    "word": "they",
+    "symbol": "𒋀𒄠𒄀"
+  },
+  {
+    "dao_id": 29,
+    "word": "am",
+    "symbol": "𒀀𒈀"
+  },
+  {
+    "dao_id": 30,
+    "word": "is",
+    "symbol": "𒁠𒊀"
+  },
+  {
+    "dao_id": 31,
+    "word": "are",
+    "symbol": "𒀀𒊠𒄀"
+  },
+  {
+    "dao_id": 32,
+    "word": "was",
+    "symbol": "𒆤𒀀𒊀"
+  },
+  {
+    "dao_id": 33,
+    "word": "were",
+    "symbol": "𒆤𒄀𒊠𒄀"
+  },
+  {
+    "dao_id": 34,
+    "word": "be",
+    "symbol": "𒁀𒄀"
+  },
+  {
+    "dao_id": 35,
+    "word": "being",
+    "symbol": "𒁀𒄀𒁠𒋠𒃀"
+  },
+  {
+    "dao_id": 36,
+    "word": "been",
+    "symbol": "𒁀𒄀𒄀𒋠"
+  },
+  {
+    "dao_id": 37,
+    "word": "have",
+    "symbol": "𒄠𒀀𒆀𒄀"
+  },
+  
+  {
+    "rule_id": "rule_1",        
+    "rule_description": "Subject-Verb Agreement"    
+  }
+]
