@@ -1,0 +1,27 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "main": "express_db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon express_db.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njackman-2344/lingua-chain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njackman-2344/lingua-chain/issues"
+  },
+  "homepage": "https://github.com/njackman-2344/lingua-chain#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
